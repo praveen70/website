@@ -1,0 +1,158 @@
+@charset "utf-8";
+/* CSS Document */
+
+.blue-gradient{  }
+
+.nicdark_width_percentage25{ background:#285599; width: 24.5% !important; margin: 0.25%; border-bottom:5px solid #EE9B11; border-radius:10px 10px 0px 0px; }
+
+.nicdark_bg_yellow{ background:#285599; }
+
+.back-lite-gray{ background:#F9F9F9; border-bottom:3px solid #B7B7B7; border-radius: 10px; -moz-border-radius: 10px; -ms-border-radius: 10px; -o-border-radius: 10px; -webkit-border-radius: 10px; }
+
+.bottom-gray-shadow{ border-bottom:3px solid #B7B7B7; }
+
+.bottom-gray-yellow{ border-bottom:3px solid #EE9B11; }
+
+.nicdark_btn_icon.medium{ background:#F9F9F9; border-bottom:3px solid #B7B7B7; }
+
+.border-yellow{ border:2px solid #EE9B11; }
+
+.light-gray-bg{ background:#F9F9F9 !important; color:gray; }
+
+.box-shadow-yelow{ box-shadow: 0px 4px 0px 0px #EE9B11 !important; }
+
+.box-shadow-blue{ box-shadow: 0px 4px 0px 0px #275599 !important; }
+
+.back-light-dark-gray{ background:#D4D2D2; }
+
+.border-bot-yellow{ box-shadow: 0px 4px 0px 0px #EE9B11 !important; }
+
+.border-bot-yellow-hover:hover{ box-shadow: 0px 4px 0px 0px #285599 !important; background:#EE9B11; }
+
+.icon-img img{ margin:17px; }
+
+p.color-dark-geray{ color:#6E6C6C; text-align:justify; margin-bottom:12px; font-size: 15px; line-height: 22px; font-family: 'Raleway', sans-serif; }
+
+.banner-about img{ width:100%; }
+
+.syle-as-pee li{ color:#6E6C6C; text-align:justify; font-size: 15px; line-height: 22px; font-family: 'Raleway', sans-serif; }
+
+.faq-wrap strong{ text-transform:uppercase; font-size:13px; }
+
+.result-table tr td{ padding:7px 10px; }
+
+.guest-book-table tr th{ padding:5px 10px; }
+
+.guest-book-table tr td{ padding:10px; }
+
+.image-gallery-wrap img{ float:left; width:32%; margin:0.5%; opacity:0.7; }
+
+.image-gallery-wrap img:hover{ opacity:1; }
+
+.press-gallery-wrap img{ float:left; width:49%; margin:0.5%; opacity:0.7; }
+
+.press-gallery-wrap img:hover{ opacity:0.7; }
+
+
+.foote-bracnches p{ line-height:40px; color:white; font-size:16px;  }
+
+.foote-bracnches a:hover{ text-decoration:underline; color:white; }
+
+
+
+.foote-important-links p{ line-height:27px; color:white; font-size:15px;  }
+
+.foote-important-links a:hover{ text-decoration:underline; color:white; }
+
+.cbse-east-zone{ font-size:30px; color:#333; font-weight:bold; text-align:center; line-height:30px; }
+
+.orz-by{ font-size:20px; color:#333; font-weight:bold; text-align:center; }
+
+.mile-stone{ font-size:16px; color:#333; font-weight:bold; text-align:center; }
+
+.side-link-wrap ul{ list-style-type:none; padding:0 20px; }
+
+.side-link-wrap ul li{ line-height:27px; }
+
+.side-link-wrap ul li a{ font-size:16px; font-weight:100; font-family:Arial, Helvetica, sans-serif; text-transform:uppercase; }
+
+.side-link-wrap ul li a:hover{ color:#285599; }
+
+
+
+
+
+
+
+
+.form-details {
+border: none !important;
+font-family: verdana,Arial,Helvetica,sans-serif;
+}
+
+.form-details {
+border: 1px solid #7F7F7F;
+display: block;
+overflow: hidden;
+font-family: Calibri;
+font-size: 14px !important;
+}
+
+.form-details .form-fields {
+margin-bottom: 2px;
+}
+
+.form-details h1 {
+font-size: 16px;
+font-weight: bold;
+}
+
+.form-details hr{
+border: 1px solid #444;
+}
+
+.form-details .form-fields .detail-labels {
+border-bottom: none !important;
+}
+
+.form-details .form-fields .detail-labels {
+clear: both;
+border-bottom: 1px solid #D9D9D9; font-size:14px
+}
+
+.form-details .form-fields .detail-labels div {
+display: block;
+float: left;
+padding: 5px 0 5px 5px;
+width: 23%;
+position: relative;
+color: #165389;
+}
+
+.form-details input {
+border: 1px solid #999999 !important;
+padding: 4px 3px;
+}
+
+.form-details textarea{ width:100%; height:100px; border: 1px solid #999999 !important; }
+
+.form-details select{ border: 1px solid #999999 !important; padding: 4px 3px; width:176px; }
+
+.form-details .form-fields .detail-labels div {
+color: #444 !important;
+}
+
+.ad-fo-bu{ background: rgb(76, 142, 250);
+border-radius: 2px;
+box-sizing: border-box;
+color: #fff;
+cursor: pointer;
+font-size: .875em;
+transition: box-shadow 200ms cubic-bezier(0.4, 0, 0.2, 1);padding:7px 15px !important; }
+.calendar-font{
+              font-size: 20px;
+              color: #545454;
+}
+.anchor-color{
+               color: rgb(86, 86, 219);
+}
